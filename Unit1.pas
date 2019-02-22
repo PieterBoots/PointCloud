@@ -257,7 +257,7 @@ begin
   MouseStatus.XStart := Screenpoint.x;
   MouseStatus.yStart := Screenpoint.y;
 
-  if button = mbright then
+  if button = mbleft then
   begin
     MouseStatus.Down := true;
   end;
