@@ -51,7 +51,7 @@ object Form1: TForm1
     Height = 33
     Max = 30
     PageSize = 0
-    Position = 50
+    Position = 3
     TabOrder = 1
   end
   object ScrollBar2: TScrollBar
@@ -61,6 +61,7 @@ object Form1: TForm1
     Height = 33
     Max = 1000
     PageSize = 0
+    Position = 50
     TabOrder = 2
   end
   object Timer1: TTimer
